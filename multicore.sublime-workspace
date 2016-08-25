@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"db",
+				"db_user_name	statement"
+			],
+			[
+				"SE",
+				"SET_PYTHON_USER_PRIVILEGES	statement"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"set_",
+				"set_python_user_privileges"
+			],
+			[
+				"da",
+				"databaseuser	statement"
+			],
+			[
+				"sta",
+				"staff_member_required	import"
+			],
+			[
+				"lo",
+				"login_required	import"
+			],
+			[
+				"red",
+				"redshift_connection	statement"
+			],
+			[
+				"conn",
+				"connect_as_master_user	param"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"inst",
+				"institution"
+			],
+			[
+				"dat",
+				"databaseuser_id	param"
+			],
+			[
+				"get",
+				"get_object_or_404	import"
+			],
+			[
+				"data",
+				"databaseuser_id"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"cloudfor",
+				"cloudformation-stack	cloudformation-stack"
+			],
+			[
+				"Red",
+				"RedisSubnetIds"
+			],
+			[
+				"elastic",
+				"elasticache-subnetgroup	elasticache-subnetgroup"
+			],
+			[
+				"Elas",
+				"ElastiCacheSecurityGroup"
+			],
+			[
+				"se",
+				"security-group	security-group"
+			],
+			[
+				"Elasti",
+				"ElastiCache"
+			],
+			[
+				"VpcSecurity",
+				"VpcSecurityGroupId"
+			],
+			[
+				"Numb",
+				"NumberOfNodes"
+			],
+			[
+				"Clu",
+				"ClusterNodeType"
+			],
+			[
+				"elas",
+				"elasticache-cachecluster	elasticache-cachecluster"
+			],
+			[
+				"Lau",
+				"LaunchpadDBMasterPassword"
+			],
+			[
+				"Co",
+				"ConfigBucket"
+			],
+			[
+				"lin",
+				"lineinfile"
+			],
+			[
+				"sit",
+				"sites-enabled"
+			],
+			[
+				"proxy",
+				"proxy"
+			],
+			[
+				"n",
+				"nuxeo"
+			],
+			[
+				"a",
+				"apt"
+			],
+			[
+				"apt",
+				"apt_repository"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hw1q1.java",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": ":w",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":sta",
+				"Snippet: cloudformation-stack"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				":out",
+				"Snippet: output"
+			],
+			[
+				":para",
+				"Snippet: parameter"
+			],
+			[
+				"set Syntax: Clo",
+				"Set Syntax: CloudFormation"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 127.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/howie/projects/api/README.md",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/views.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/models.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/admin.py",
+		"/Users/howie/projects/canvas-data-hosting/cloudformation/canvas-data-hosting.json.template",
+		"/Users/howie/projects/canvas-data-hosting/static/VERSION",
+		"/Users/howie/projects/canvas-data-hosting/canvas_data_hosting/fixtures/sitesdata.yaml",
+		"/Users/howie/projects/canvas-data-hosting/dist/canvas-data-hosting.tar.gz",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/templates/admin/userpythonprivileges.html",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/templates/admin/userpythonprivileges_confirm.html",
+		"/Users/howie/projects/canvas-data-hosting/cloudformation/create-stack-playbook.yml",
+		"/Users/howie/projects/canvas-data-hosting/canvas_data_hosting/urls.py",
+		"/Users/howie/projects/canvas-data-hosting/canvas_data_hosting/settings.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/migrations/0001_initial.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/migrations/0002_auto_20160823_2019.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/sql/sqlcommands.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/templates/admin/userreset.html",
+		"/Users/howie/projects/canvas-data-hosting/requirements.txt",
+		"/Users/howie/projects/canvas-data-hosting/.gitignore",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/aws/redshift.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/tests/test_admin.py",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/templates/admin/user_python_privileges.html",
+		"/Users/howie/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/howie/projects/canvas-data-hosting/cdhost/templates/admin/instreset.html",
+		"/Users/howie/projects/canvas-data-hosting/make_release.sh",
+		"/Users/howie/projects/launchpad/ansible/aws/resource_stack/launchpad.json.cform",
+		"/Users/howie/projects/launchpad/.gitignore",
+		"/Users/howie/projects/launchpad/ansible/aws/resource_stack/notes.md",
+		"/Users/howie/projects/launchpad/ansible/roles/nuxeo-dev-vagrant/handlers/main.yml",
+		"/Users/howie/projects/launchpad/ansible/roles/nuxeo-dev-vagrant/tasks/main.yml",
+		"/Users/howie/projects/launchpad/Vagrantfile",
+		"/Users/howie/projects/launchpad/ansible/roles/nuxeo-dev-vagrant/vars/main.yml",
+		"/Users/howie/projects/launchpad/ansible/aws/app_stack/launchpad-resourcestack.json.cform",
+		"/Users/howie/Downloads/WordPress_Single_Instance_With_RDS.template",
+		"/Users/howie/projects/launchpad/ansible/local-dev-playbook.yml",
+		"/Users/howie/projects/launchpad/ansible/local-dev-requirements.yml",
+		"/Users/howie/projects/launchpad/ansible/roles/nuxeo-dev-vagrant/templates/nuxeo.conf.jinja2",
+		"/Users/howie/projects/launchpad/ansible/roles/nuxeo-dev-vagrant/templates/apache-nuxeo.conf.jinja2",
+		"/Users/howie/projects/launchpad/ansible/roles/nuxeo-dev-vagrant/meta/main.yml",
+		"/Users/howie/projects/launchpad/ansible/requirements.yml",
+		"/Users/howie/projects/launchpad/ansible/roles/nuxeo-dev-vagrant/nuxeo.conf.jinja2",
+		"/Users/howie/projects/launchpad/ansible/nuxeo.conf.jinja2",
+		"/Users/howie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/howie/projects/launchpad/howie",
+		"/Users/howie/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/howie/projects/launchpad/main.yml",
+		"/Users/howie/projects/launchpad/launchpad.sublime-project",
+		"/Users/howie/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/howie/projects/launchpad/ansible/roles/common/tasks/main.yml",
+		"/Users/howie/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/howie/.path"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"canvas-data-hosting/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"userreset.html",
+			"wizard",
+			"nuxeo",
+			"ignored_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hw1q1.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "multicore.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/ansible/ansible.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
